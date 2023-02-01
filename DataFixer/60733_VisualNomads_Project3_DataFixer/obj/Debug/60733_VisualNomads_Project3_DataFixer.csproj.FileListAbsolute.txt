@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\С++\60733_VisualNomads_Project3_DataFixer\60733_VisualNomads_Project3_DataFixer\bin\Debug\60733_VisualNomads_Project3_DataFixer.exe.config
+C:\Users\Admin\source\repos\С++\60733_VisualNomads_Project3_DataFixer\60733_VisualNomads_Project3_DataFixer\bin\Debug\60733_VisualNomads_Project3_DataFixer.exe
+C:\Users\Admin\source\repos\С++\60733_VisualNomads_Project3_DataFixer\60733_VisualNomads_Project3_DataFixer\bin\Debug\60733_VisualNomads_Project3_DataFixer.pdb
+C:\Users\Admin\source\repos\С++\60733_VisualNomads_Project3_DataFixer\60733_VisualNomads_Project3_DataFixer\obj\Debug\60733_VisualNomads_Project3_DataFixer.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\С++\60733_VisualNomads_Project3_DataFixer\60733_VisualNomads_Project3_DataFixer\obj\Debug\60733_VisualNomads_Project3_DataFixer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\С++\60733_VisualNomads_Project3_DataFixer\60733_VisualNomads_Project3_DataFixer\obj\Debug\_60733_VisualNomads_Project3_DataFixer.Form1.resources
+C:\Users\Admin\source\repos\С++\60733_VisualNomads_Project3_DataFixer\60733_VisualNomads_Project3_DataFixer\obj\Debug\_60733_VisualNomads_Project3_DataFixer.Form2.resources
+C:\Users\Admin\source\repos\С++\60733_VisualNomads_Project3_DataFixer\60733_VisualNomads_Project3_DataFixer\obj\Debug\_60733_VisualNomads_Project3_DataFixer.Properties.Resources.resources
+C:\Users\Admin\source\repos\С++\60733_VisualNomads_Project3_DataFixer\60733_VisualNomads_Project3_DataFixer\obj\Debug\60733_VisualNomads_Project3_DataFixer.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\С++\60733_VisualNomads_Project3_DataFixer\60733_VisualNomads_Project3_DataFixer\obj\Debug\60733_VisualNomads_Project3_DataFixer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\С++\60733_VisualNomads_Project3_DataFixer\60733_VisualNomads_Project3_DataFixer\obj\Debug\60733_VisualNomads_Project3_DataFixer.exe
+C:\Users\Admin\source\repos\С++\60733_VisualNomads_Project3_DataFixer\60733_VisualNomads_Project3_DataFixer\obj\Debug\60733_VisualNomads_Project3_DataFixer.pdb
